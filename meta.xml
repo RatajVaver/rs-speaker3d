@@ -1,0 +1,5 @@
+<meta>
+    <info author="Rataj" name="speaker3d"  version="1.0" type="script"/>
+    <script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>
